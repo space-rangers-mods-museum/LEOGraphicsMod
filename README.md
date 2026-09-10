@@ -1,7 +1,5 @@
 # 🗄️ LEOGraphicsMod
 
-## 📝 Mod
-
 * **Name:** LEOGraphicsMod
 * **Author:** LEOPARD
 
@@ -70,4 +68,4 @@ acquire:
 
 ## ⚖️ Copyright & Disclaimer
 
-**All Rights Reserved:** the authorship of this modification fully belongs to the developer **LEOPARD**. This publication is made solely for digital archaeology, preserving the history of the gaming community, and educational purposes (Fair Use), without any claim to the original copyright.
+**All Rights Reserved:** the authorship of this modification fully belongs to **LEOPARD**. This publication is made solely for digital archaeology, preserving the history of the gaming community, and educational purposes (Fair Use), without any claim to the original copyright.
