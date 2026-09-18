@@ -1,4 +1,4 @@
-# 🗄️ LEOGraphicsMod
+# 🥣 LEOGraphicsMod
 
 * **Name:** LEOGraphicsMod
 * **Author:** LEOPARD

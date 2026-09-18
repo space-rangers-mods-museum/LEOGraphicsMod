@@ -1,10 +1,15 @@
 {
   "exhibit_name": "LEOGraphicsMod",
-  "source": {
-    "archive": "Solyanka.zip",
-    "size": 547866839,
-    "sha256": "42a78494c3a61b867b88c313e02d6f234caf85af847dc891d1d86b3450b18dd8"
-  },
+  "source": [
+    {
+      "kind": "zip",
+      "archive": "Solyanka.zip",
+      "path": "C:\\Users\\ringill\\repo\\space_rangers\\origin_artefact\\downloaded\\Solyanka.zip",
+      "size": 547866839,
+      "sha256": "42a78494c3a61b867b88c313e02d6f234caf85af847dc891d1d86b3450b18dd8",
+      "files": 5
+    }
+  ],
   "exhibit_archive": {
     "path": "LEOGraphicsMod.zip",
     "size": 536408476,

@@ -3,7 +3,7 @@ exhibit: LEOGraphicsMod
 # internal — input for extract_exhibit.py, NOT shown on the card
 source:
   - kind: zip
-    path: C:/Users/ringill/repo/space_rangers/tmp/Solyanka.zip
+    path: C:/Users/ringill/repo/space_rangers/origin_artefact/downloaded/Solyanka.zip
     target: Mods/Solyanka/LEOGraphicsMod
 
 # public — acquisition route, rendered in the card README.md
