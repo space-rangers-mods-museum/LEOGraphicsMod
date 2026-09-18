@@ -62,7 +62,7 @@ acquire:
 | LEOGraphicsMod.pkg | 16617a8eb2bbc933a632ae6f04eb15cd2ffe7630ff29ed3e0906d827e3d8b25f |
 | ModuleInfo.txt     | e7f5fd35955734cdc6689e4bc0e09cb4abf544d6b13692377a8f4be63edf1fe0 |
 
-> Final archive: [`LEOGraphicsMod.zip`](https://github.com/space-rangers-mods-museum/LEOGraphicsMod/releases/download/v1.0.0/LEOGraphicsMod.zip) · SHA-256 `ce4f274e52431cdfffe54efb82655082382a2985fca23390bff578469e5e85ea`
+> Final archive: [`LEOGraphicsMod.zip`](https://github.com/space-rangers-mods-museum/LEOGraphicsMod/releases/download/v1.0.0/LEOGraphicsMod.zip) · SHA-256 `89667bd61a21c044f3566d0276d75fda25bdfa267a40ed9d4d2eb86fdd15ec9b`
 
 ---
 

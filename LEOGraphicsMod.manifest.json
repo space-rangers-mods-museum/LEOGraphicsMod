@@ -12,8 +12,9 @@
   ],
   "exhibit_archive": {
     "path": "LEOGraphicsMod.zip",
-    "size": 536408476,
-    "sha256": "ce4f274e52431cdfffe54efb82655082382a2985fca23390bff578469e5e85ea",
+    "size": 536408766,
+    "sha256": "89667bd61a21c044f3566d0276d75fda25bdfa267a40ed9d4d2eb86fdd15ec9b",
+    "root": "Mods/Solyanka/LEOGraphicsMod",
     "entries": 5
   },
   "files": [
